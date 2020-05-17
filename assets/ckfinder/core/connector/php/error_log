@@ -1,0 +1,7 @@
+[04-Nov-2017 07:08:59 UTC] PHP Warning:  mkdir(): File exists in /home/thi1001ac/public_html/assets/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Backend/Adapter/Local.php on line 90
+[04-Nov-2017 07:08:59 UTC] PHP Warning:  mkdir(): File exists in /home/thi1001ac/public_html/assets/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Backend/Adapter/Local.php on line 90
+[04-Nov-2017 07:08:59 UTC] PHP Warning:  mkdir(): File exists in /home/thi1001ac/public_html/assets/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Backend/Adapter/Local.php on line 90
+[04-Nov-2017 07:08:59 UTC] PHP Notice:  imagecreatefromstring(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/thi1001ac/public_html/assets/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Image.php on line 209
+[22-Nov-2017 06:26:39 UTC] PHP Fatal error:  Allowed memory size of 207618048 bytes exhausted (tried to allocate 84087255 bytes) in /home/thi1001ac/public_html/assets/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Image.php on line 209
+[22-Nov-2017 06:27:32 UTC] PHP Fatal error:  Allowed memory size of 207618048 bytes exhausted (tried to allocate 84087255 bytes) in /home/thi1001ac/public_html/assets/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Image.php on line 209
